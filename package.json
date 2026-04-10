@@ -1,0 +1,14 @@
+{
+  "name": "techmart-erp",
+  "version": "1.0.0",
+  "description": "TechMart Electronic Shop ERP - Full Stack",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm start",
+    "start:backend": "cd backend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "private": true
+}
