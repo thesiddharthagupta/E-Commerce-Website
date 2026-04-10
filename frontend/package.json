@@ -2,6 +2,7 @@
   "name": "techmart-frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://thesiddharthagupta.github.io/E-Commerce-Website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "axios": "^1.6.2",
